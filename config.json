@@ -1,0 +1,17 @@
+{
+ 	"project" : "test", 	
+ 	"localServer" : {
+ 		"host" : "localhost",
+ 		"port" : "3000"
+ 	},
+ 	"tinypngApi": "Q0Q_7x6ppzaVY00KSOu1vc5-FVKyN20J",
+ 	"upload" : {
+		"use": false,
+    "protocol": "sftp",
+ 		"host" : "192.168.47.227",
+ 		"user" : "lidikang",
+ 		"password" : "lidikang",
+ 		"port" : "22",
+ 		"remotePath" :"/home/lidikang/test_page/"
+ 	}
+ }
